@@ -1,21 +1,7 @@
-@media (min-width: 640px;) {
-
-    .page-footer {
-        margin-bottom: 0;
-    }
+.no-margin {
+    margin-bottom: 0px;
 }
 
-@media (min-width: 768px;) {
-    
-    .page-footer {
-        margin-bottom: 0;
-    }
-
-}
-
-@media (min-width: 980px;) {
-
-    .page-footer {
-        margin-bottom: 0;
-    }
+.form-control {
+    width: 460px;
 }
